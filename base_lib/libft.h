@@ -7,8 +7,8 @@
 # include <fcntl.h>
 # include <limits.h>
 # include <stdint.h>
-# include "./ft_printf/ft_printf.h"
-# include "./get_next_line/get_next_line.h"
+# include "../ft_printf/ft_printf.h"
+# include "../get_next_line/get_next_line.h"
 
 typedef struct s_stock
 {
