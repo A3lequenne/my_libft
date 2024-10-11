@@ -73,3 +73,7 @@ The current implementation does not handle multi-line inputs efficiently when `B
 ## Conclusion
 
 `get_next_line` is a useful utility for reading text data line by line in C. It demonstrates how to work with file descriptors, handle memory allocation dynamically, and manage static variables for continuous data processing across function calls. This implementation is useful for learning how to handle low-level I/O in C.
+
+## Back to Project Root
+
+- [Return to my_libft Root Directory](..)

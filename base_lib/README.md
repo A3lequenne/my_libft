@@ -60,4 +60,4 @@ Ensure that `libft.a` is available in the linking path when building your projec
 
 ## Back to Project Root
 
-- [Return to my_libft Root Directory](../README.md)
+- [Return to my_libft Root Directory](..)

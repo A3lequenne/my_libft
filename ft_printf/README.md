@@ -62,6 +62,6 @@ gcc -o my_program main.c -L. -lft
 
 Make sure to include all necessary files and ensure that `libft.a` is available in the linking path.
 
-## License
+## Back to Project Root
 
-This code is licensed under the MIT License. Feel free to use, modify, and distribute it as needed.
+- [Return to my_libft Root Directory](..)
