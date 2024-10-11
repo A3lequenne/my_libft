@@ -38,7 +38,7 @@ The key components of this implementation include handling various flags and mod
 This implementation is part of the `libft.a` library. To use the `ft_printf` function, include the `libft.h` header and link against the `libft` library:
 
 ```c
-#include "libft.h"
+#include "../includes/libft.h"
 
 // Example usage of the custom printf function
 ft_printf("The value is: %f\n", 123.456);

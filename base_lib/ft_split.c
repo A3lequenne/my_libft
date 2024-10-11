@@ -1,4 +1,4 @@
-#include "libft.h"
+#include "../includes/libft.h"
 
 static char	*ft_strrep(char *str, char c, char rep)
 {

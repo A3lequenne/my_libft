@@ -39,7 +39,7 @@ In addition to the standard string handling functions, `libft` includes several 
 To use the functions from `libft`, include the `libft.h` header file and link the compiled `libft.a` static library in your project:
 
 ```c
-#include "libft.h"
+#include "../includes/libft.h"
 
 // Example usage
 int main(void) {

@@ -1,4 +1,4 @@
-#include "get_next_line.h"
+#include "../includes/libft.h"
 
 char	*ft_free(char *rest, char *buf)
 {
@@ -80,7 +80,7 @@ char	*take_next(char *rest)
 	return (next_line);
 }
 
-char	*get_next_line(int fd)
+char	*get_next_line_fd(int fd)
 {
 	static char	*stat_str;
 	char		*line;
